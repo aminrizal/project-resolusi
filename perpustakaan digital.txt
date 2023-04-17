@@ -2,3 +2,5 @@ Langkah langkah:
 - Membuat Login
 - Membuat Registrasi
 - Membuat Home
+- Membuat Menu
+- Membuat Isi Dashboard
