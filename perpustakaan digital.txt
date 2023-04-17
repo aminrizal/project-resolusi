@@ -1,0 +1,4 @@
+Langkah langkah:
+- Membuat Login
+- Membuat Registrasi
+- Membuat Home
